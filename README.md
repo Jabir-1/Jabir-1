@@ -9,8 +9,8 @@ I'm a developer passionate about crafting creative and efficient solutions throu
 *   🌍  I'm based in Silchar, Assam, India
 *   ✉️  You can contact me at [mazumderjabir4@gmail.com](mailto:mazumderjabir4@gmail.com)
 *   🧠  I'm learning backend and databases
-<a href="https://www.github.com/Jabir-1" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Jabir-1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+   
+<a href="https://www.github.com/Jabir-1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Jabir-1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills 
 <p align="left">
