@@ -1,7 +1,7 @@
 Hi 👋 My name is Jabir Ahmed
 ============================
 
-I'm a developer passionate about crafting creative and efficient solutions through code. Here, you'll find my journey of exploring web development, interactive design, and modern programming practices. 💻 Constantly learning and experimenting with new technologies. 🚀 Focused on clean, maintainable, and user-centric development. 🌟 Sharing knowledge and collaborating on exciting ideas.
+💻 Constantly learning and experimenting with new technologies. 🚀 Focused on clean, maintainable, and user-centric development. 🌟 
 
 *   ✉️  You can contact me at [mazumderjabir4@gmail.com](mailto:mazumderjabir4@gmail.com)
 *   🧠  I'm learning backend and databases
